@@ -7,6 +7,8 @@ from stock_analysis_tasks import StockAnalysisTasks
 from dotenv import load_dotenv
 load_dotenv()
 
+print("Manu Jaison")
+
 class FinancialCrew:
   def __init__(self, company):
     self.company = company
